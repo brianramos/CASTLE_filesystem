@@ -6,7 +6,7 @@
 [[Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [[Version](https://img.shields.io/badge/version-2.0.0-green.svg)](https://github.com/username/CASTLEfs)
 
-CASTLEfs is a novel filesystem encryption system that implements a cascading door authentication architecture. It provides layered security through multiple configurable "doors," each with distinct key requirements, combined with fractal-modulated cryptographic transformations for data protection.
+CASTLEfs is a portable filesystem encryption system that implements a cascading door authentication architecture. It provides layered security through multiple configurable "doors," each with distinct key requirements, combined with fractal-modulated cryptographic transformations for data protection.
 
 ## Table of Contents
 
